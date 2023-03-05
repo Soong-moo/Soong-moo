@@ -23,7 +23,7 @@
 
   <p align="left">
   <h3> ⌨️ Tech Stack </h3>
-  <h4> ✈️ Usually I've Used </h4>
+  <h4> ✈️ Usually I Use </h4>
   <h5> ⭐ Platforms & Languages </h5>
   <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
