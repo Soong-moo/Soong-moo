@@ -4,6 +4,13 @@
 <a href="https://solved.ac/blueday0214"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=blueday0214"/></a>
 </div>
 
+## ✋🏻 Seungmin Lee
+🎓 Computer Science and Engineering at Sunmoon Univ. (2019.03 ~ )
+
+🌙 I'm interested in **Backend Development**
+
+---
+
 <div align="center">
 
 <img align="right" height="250" width="50%" src="https://github-readme-stats.vercel.app/api?username=Soong-moo&show_icons=true&hide="/>
