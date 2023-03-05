@@ -37,7 +37,7 @@
   </p>
   
   <p align="right">
-  <h4> ✈️ one Once I've Used </h4>
+  <h3> ✈️ one Once I've Used </h3>
   <h5> ⭐ Platforms & Languages </h5>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
