@@ -7,7 +7,7 @@
 ## ✋🏻 Seungmin Lee
 🎓 Computer Science and Engineering at Sunmoon Univ. (2019.03 ~ )
 
-🌙 I'm interested in **Backend**
+🌙 I'm interested in **Backend Develop**
 
 ---
 
