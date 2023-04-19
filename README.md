@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img align="right" height="250" width="50%" src="https://github-readme-stats.vercel.app/api?username=Soong-moo&show_icons=true&hide="/>
+<img align="right" height="250" width="50%" src="https://github-readme-stats.vercel.app/api?username=Soong-moo"/>
 
   <p align="left">
   <h4> ✈️ Usually I Use </h4>
