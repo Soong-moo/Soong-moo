@@ -5,7 +5,9 @@
 </div>
 
 ## ✋🏻 Seungmin Lee
-🎓 Computer Science and Engineering at Sunmoon Univ. (2019.03 ~ )
+🎓 Computer Science and Engineering at Sunmoon Univ. (2019.03 ~ 2024.08)
+🏢 intern at AllforLand (2024.08 ~ 2024.11)
+🏢 FullStack Developer at AllforLand (2025.01 ~ )
 
 🌙 I'm interested in **Backend Develop**
 
